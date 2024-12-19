@@ -8,6 +8,8 @@ Lidacane demo - https://www.youtube.com/watch?v=fZIkE9RzTuY
 
 Kelp Exhibit demo - https://www.youtube.com/watch?v=z9afTGFZIW4
 
+3D Printed Centrifuge demo - 
+
 Work in progress:
 
 Robotic card counter, model launch controller 
